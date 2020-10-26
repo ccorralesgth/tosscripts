@@ -1,2 +1,2 @@
 # tosscripts
-think or swing scripting 
+Thinkorswing scripting 
